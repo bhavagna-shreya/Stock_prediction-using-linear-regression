@@ -21,6 +21,8 @@ To assess the model’s general performance, the code calculates the average acc
 # Results and conclusion
 The final section of the code includes a visualization that compares the predicted versus actual stock prices based on the test set. This visual representation aids in gauging how well the linear regression model performs in predicting stock
 prices
+![image (1)](https://github.com/bhavagna-shreya/Stock_prediction-using-linear-regression/assets/91515986/f5e5ae33-12bf-4de7-af46-0473ae93bd49)
+![image](https://github.com/bhavagna-shreya/Stock_prediction-using-linear-regression/assets/91515986/5dddf8df-9e25-4748-9a1e-56704277a37f)
 
 # Considerations and Recommendations
 1.	The use of a simple linear regression model may not capture the intricaterelationships within stock price data. Exploring more advanced models, such as polynomial regression or machine learning algorithms, could enhance predictive performance.
